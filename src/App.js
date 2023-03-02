@@ -1,4 +1,4 @@
-import ReviewsCarousel from './components/ReviewsCarousel'
+import ReviewsCarousel from './components/ReviewsCarousel/index'
 
 import './App.css'
 
